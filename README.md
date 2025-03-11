@@ -1,5 +1,5 @@
 # 💫 About Me:
-   Hi there 👋, I'm Letlhogonolo
+   Hi there 👋, I'm **Letlhogonolo**
   
   *🚀 Software Engineer | Backend & Cloud Engineer Enthusiast*
 # 💻 Tech Stack:
