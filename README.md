@@ -1,5 +1,5 @@
  ## Hey there 👋
- ### I'm **Letlhogonolo** 💫 a full-stack developer with a passion for building apps that solve real-world problems. Whether it's creating seamless user experiences or developing innovative solutions, I love turning ideas into functional, impactful software.
+ ### I'm **Letlhogonolo** 💫 a full-stack developer with a passion for building apps that solve real-world problems. Creating seamless user experiences or developing innovative solutions, I turn ideas into functional, impactful software.
 
 I have experience working with a variety of technologies, including:
 
