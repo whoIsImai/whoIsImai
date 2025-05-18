@@ -6,7 +6,7 @@ I have experience working with a variety of technologies, including:
 - **React** & **React Native** for building interactive and responsive apps.
 - **Node.js** & **TypeScript** for backend and API development.
 - **C#** for enterprise-level applications.
-- **MongoDB** for NoSQL database management.
+- **MongoDB and MySQL** for both NoSQL and SQL database management.
 - **JWT** for secure authentication.
 - **OAuth** for Google sign-in.
 - **Firebase** & **Redis** for database management, real-time data, and caching.
