@@ -1,5 +1,5 @@
  ## Hey there 👋
- ### I'm **Letlhogonolo** 💫 a full-stack developer with a passion for building apps that solve real-world problems.
+ ### I'm **Letlhogonolo** 💫 a full-stack developer with a passion for building applications that solve real-world problems.
 
 I have experience working with a variety of technologies, including:
 
