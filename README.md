@@ -1,4 +1,4 @@
- ## Hey there 👋 I'm **Letlhogonolo** 💫
+ ## Hey I'm **Letlhogonolo** 💫
  ### A Full-stack developer with a passion for building applications that solve real-world problems.
 
 I have experience working with a variety of technologies, including:
