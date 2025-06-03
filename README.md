@@ -1,5 +1,5 @@
  ## Hey I'm **Letlhogonolo**
- ### A Developer with a passion for building applications that solve real-world problems.
+ ### A passion for building applications that solve real-world problems.
 
 I have experience working with a variety of technologies, including:
 
