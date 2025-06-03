@@ -1,8 +1,6 @@
  ## Hey I'm **Letlhogonolo**
  ### A passion for building applications that solve real-world problems.
-
-I have experience working with a variety of technologies, including:
-
+ 
 - **React** & **React Native** for building interactive and responsive apps.
 - **Node.js** & **TypeScript** for backend and API development.
 - **C#** for enterprise-level applications.
