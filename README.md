@@ -1,5 +1,5 @@
- ## Hey I'm **Letlhogonolo**
- ### A passion for building applications that solve real-world problems.
+ ## Hi 👋**
+ ### Building applications that solve real-world problems
  
 - **React** & **React Native** for building interactive and responsive apps.
 - **Node.js** & **TypeScript** for backend and API development.
@@ -24,7 +24,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Reach out to collaborate, chat about tech, or explore new ideas!
 ---
 [![](https://visitcount.itsvg.in/api?id=whoIsImai&icon=0&color=0)](https://visitcount.itsvg.in)
 
