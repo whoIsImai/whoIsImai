@@ -1,4 +1,4 @@
- ## Hi 👋**
+ ## Hi 👋
  ### Building applications that solve real-world problems
  
 - **React** & **React Native** for building interactive and responsive apps.
