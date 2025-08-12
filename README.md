@@ -1,4 +1,4 @@
-### all about uilding applications that solve real-world problems
+### all about building applications that solve real-world problems
  
 - **React** & **React Native** for building interactive and responsive apps.
 - **Node.js** & **TypeScript** for backend and API development.
